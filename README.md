@@ -77,7 +77,7 @@ The Blinkit Grocery Sales Analysis Dashboard offers a robust, data-driven founda
 
 ## 🖼️ **Dashboard Screenshot**
 
-![Blinkit Grocery Sales Dashboard Screenshot](path_to_screenshot.png)
+![Blinkit Grocery Sales Dashboard Screenshot](https://github.com/mdshamim18/blinkit-analysis-dashboard/blob/main/All%20Pictures/Dashboard%20SS/Dashboard%20ss.png)
 
 ---
 
@@ -85,5 +85,7 @@ The Blinkit Grocery Sales Analysis Dashboard offers a robust, data-driven founda
 
 To explore the full Power BI dashboard and data analysis, you can download the `.pbix` file using the following link:
 
-🔗 [Download Blinkit Grocery Sales Analysis Dashboard](link_to_github_repo_or_file)
+🔗 [Download Blinkit Grocery Sales Analysis Dashboard](https://github.com/mdshamim18/blinkit-analysis-dashboard/blob/main/Project%20and%20Dataset%20Files/blinkit%20grocery%20sales%20analysis%20dashboard.pbix)
+
+🔗 [Download Blinkit Grocery Sales Analysis Dashboard](https://github.com/mdshamim18/blinkit-analysis-dashboard/blob/main/Project%20and%20Dataset%20Files/BlinkIT%20Grocery%20Data.xlsx)
 
